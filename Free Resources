@@ -1,0 +1,80 @@
+## Free Training and Learning Resources
+===========================================================================================================================================
+Compiled by: Adarsh Pandey
+Purpose: Consolidated list for AI/LLM security researchers, bug bounty hunters, and red teamers exploring prompt injection and adversarial AI.
+
+- [Gandalf] : Game-based LLM vulnerability training : https://gandalf.lakera.ai/
+
+- [IBM Prompt Injection Overview](https://www.ibm.com/topics/prompt-injection)
+
+- [Learn Prompting]: https://learnprompting.org/docs/prompt_hacking/injection
+
+- [LLM Security] : https://llmsecurity.net/
+
+- [OWASP GenAI]: https://genai.owasp.org/
+
+- [AI Village – Threat Modeling LLMs]: https://aivillage.org/large%20language%20models/threat-modeling-llm/
+
+- [Prompting Guide – Adversarial Prompts]: https://www.promptingguide.ai/risks/adversarial
+
+- [Prompting Guide – RAG Research]: https://www.promptingguide.ai/research/rag
+
+- [Cobalt Blog: Prompt Injection Attacks]: https://www.cobalt.io/blog/prompt-injection-attacks
+
+- [Bugcrowd Blog: AI Vulnerability Deep Dive]: https://www.bugcrowd.com/blog/ai-vulnerability-deep-dive-prompt-injection/
+
+- [Unite AI: Prompt Hacking]: https://www.unite.ai/prompt-hacking-and-misuse-of-llm/?trk=article-ssr-frontend-pulse_little-text-block
+
+- [Simon Willison: Prompt Injection Explained] : https://simonwillison.net/2023/May/2/prompt-injection-explained/
+
+- [Vickie Li on Medium: Hacking LLMs]: https://vickieli.medium.com/hacking-llms-with-prompt-injections-6a5ebffb182b
+
+- [NCC Group: Exploring Prompt Injection]: https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/
+
+- [WithSecureLabs – Damn Vulnerable LLM Agent] : https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
+
+- [ScottLogic – Prompt Injection]: https://github.com/ScottLogic/prompt-injection
+
+- [Greshake – LLM Security Resources]: https://github.com/greshake/llm-security
+
+- [Hannibal046 – Awesome LLM Collection]: https://github.com/Hannibal046/Awesome-LLM
+
+- [Ottosulin – Awesome AI Security] : https://github.com/ottosulin/awesome-ai-security
+
+- [Mik0w – PALLMS Resources]: https://github.com/mik0w/pallms
+
+- [ATLAS Matrix] : https://atlas.mitre.org/matrices/ATLAS/
+
+- [OWASP: Vulnerable LLM Applications] : https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Vulnerable-LLM-Applications
+
+- [Corca – Awesome LLM Security] : https://github.com/corca-ai/awesome-llm-security
+
+- [Prompt Airlines]: https://promptairlines.com/
+
+- [Crucible] : https://crucible.dreadnode.io/
+
+- [Immersive Labs AI Prompting] : https://prompting.ai.immersivelabs.com/
+
+- [Bugcrowd Ultimate Guide to AI Security (PDF)] : https://www.bugcrowd.com/wp-content/uploads/2024/04/Ultimate-Guide-AI-Security.pdf
+
+- [Microsoft AI Red Teaming] : https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming
+
+- [HackerOne: Ethical and Security Risks in AI (E-book)] : https://www.hackerone.com/resources/e-book/the-ultimate-guide-to-managing-ethical-and-security-risks-in-ai
+
+- [NVIDIA AI Red Team Introduction] : https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
+
+- [Lakera – Real World LLM Exploits (PDF)]: https://lakera-marketing-public.s3.eu-west-1.amazonaws.com/Lakera%2BAI%2B-%2BReal%2BWorld%2BLLM%2BExploits%2B(Jan%2B2024)-min.pdf
+
+- [SpyLogic Playground (ScottLogic)]: https://github.com/ScottLogic/prompt-injection
+
+- [Offensive ML Playbook]: https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook
+
+- [Snyk – OWASP Top 10 for LLMs (PDF)]: https://go.snyk.io/rs/677-THP-415/images/owasp-top-10-llm.pdf
+
+- [Prompt Injection Games – Secdim]: https://play.secdim.com/game/ai
+
+- [LLM Pentesting Guide – SystemWeakness](https://systemweakness.com/large-language-model-llm-pen-testing-part-i-2ef96acb6763)
+
+---
+
+
